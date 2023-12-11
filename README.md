@@ -1,7 +1,6 @@
-# Titel thesis
-Lidar-Based Evaluation of Pantropical Allometric Equations for Carbon Stock Estimates in Reforested Areas in Southern Ecuador
+# Lidar-Based Evaluation of Pantropical Allometric Equations for Carbon Stock Estimates in Reforested Areas in Southern Ecuador
 
-# Abstract thesis
+## Abstract
 
 Tropical forests play a major role in tackling climate change and biodiversity conservation. In recent years, there has not only been a social interest, but also policies impose obligations to reforest large areas in order to reduce the atmospheric CO2-concentration. Tropical reforestation has proven to be efficient in rapidly sequestering carbon and creating a habitat for biodiversity. Boosted by the carbon market, numerous corporations, organisations and countries are investing in reforestation and afforestation projects in the tropics, including in Ecuador.
 
